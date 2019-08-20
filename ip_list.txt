@@ -1,0 +1,8 @@
+phoenix(00_0a_f7_bc_c3_26)	q~~~~4	phoenix-dev03	29-30U	wangk	Intel(R) Xeon(R) Silver 4116 CPU @ 2.10GHz	256G	10T*3	RTX5000	HPC	sc	J2D3HP2
+phoenix(00_0a_f7_bc_e4_68)	gpu~~~@	phoenix-dev05	27-28U	wangk	Intel(R) Xeon(R) Silver 4116 CPU @ 2.10GHz	256G	10T*4	P5000	HPC	zyj+zly	J2D4HP2
+bgi902(18_66_da_f4_ca_e0)	q~~~4 + p100	NULL	23-24U	wangk	Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz	128G	4TB*4	P100	HPC	jd	JQ7VLG2
+bgi902(c8_8d_83_14_f7_0c)	q~~~~4	gpudev-node1	3-4U	wangk	Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz	220G	4TB*4	P6000	HPC	zyj+zly	-
+phoenix(00_0a_f7_bc_bf_5a)	q~~~~4	phoenix-dev04	25-26U	centos|wangk	Intel(R) Xeon(R) Silver 4116 CPU @ 2.10GHz	256G	8T	P5000	HPC	zly+klx	J2D5HP2
+bgi902(d0_94_66_39_b5_81)	q~~~~4	-	-	wangk	Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz	129G	8T	-	HPC	zyj	-
+bgi902(02_42_a0_d8_47_fa)	q~~~~4	-	-	wangk	Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz	128G	4TB*4	-	HPC	klx	-
+
